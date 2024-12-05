@@ -1,0 +1,37 @@
+C:\Users\br347\source\repos\morroco cartes\bin\Debug\morroco cartes.exe.config
+C:\Users\br347\source\repos\morroco cartes\bin\Debug\morroco cartes.exe
+C:\Users\br347\source\repos\morroco cartes\bin\Debug\morroco cartes.pdb
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco cartes.csproj.AssemblyReference.cache
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco cartes.csproj.SuggestedBindingRedirects.cache
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco_cartes.Form1.resources
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco_cartes.Properties.Resources.resources
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco cartes.csproj.GenerateResource.cache
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco cartes.csproj.CoreCompileInputs.cache
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco cartes.exe
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco cartes.pdb
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco_cartes.showAllCartes.resources
+C:\Users\br347\source\repos\morroco cartes\obj\Debug\morroco_cartes.Form3.resources
+D:\morroco cartes\bin\Debug\morroco cartes.exe.config
+D:\morroco cartes\bin\Debug\morroco cartes.exe
+D:\morroco cartes\bin\Debug\morroco cartes.pdb
+D:\morroco cartes\obj\Debug\morroco cartes.csproj.AssemblyReference.cache
+D:\morroco cartes\obj\Debug\morroco_cartes.showAllCartes.resources
+D:\morroco cartes\obj\Debug\morroco_cartes.Properties.Resources.resources
+D:\morroco cartes\obj\Debug\morroco cartes.csproj.GenerateResource.cache
+D:\morroco cartes\obj\Debug\morroco cartes.csproj.CoreCompileInputs.cache
+D:\morroco cartes\obj\Debug\morroco cartes.exe
+D:\morroco cartes\obj\Debug\morroco cartes.pdb
+D:\morroco cartes\obj\Debug\morroco_cartes.frmMainscreen.resources
+D:\morroco cartes\obj\Debug\morroco_cartes.frmSelect_jocker_type.resources
+C:\Users\b3474\Downloads\morroco cartes\bin\Debug\morroco cartes.exe.config
+C:\Users\b3474\Downloads\morroco cartes\bin\Debug\morroco cartes.exe
+C:\Users\b3474\Downloads\morroco cartes\bin\Debug\morroco cartes.pdb
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco cartes.csproj.AssemblyReference.cache
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco_cartes.showAllCartes.resources
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco_cartes.frmSelect_jocker_type.resources
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco_cartes.Properties.Resources.resources
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco cartes.csproj.GenerateResource.cache
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco cartes.csproj.CoreCompileInputs.cache
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco cartes.exe
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco cartes.pdb
+C:\Users\b3474\Downloads\morroco cartes\obj\Debug\morroco_cartes.Main_screen.resources
